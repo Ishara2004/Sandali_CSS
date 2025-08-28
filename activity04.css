@@ -1,0 +1,8 @@
+
+h1, p, ul {
+  color: darkblue;
+  font-family: Arial, sans-serif;
+  background-color: lightgray;
+  padding: 10px;
+  border-radius: 8px;
+}
